@@ -1,4 +1,4 @@
-FaceFusion
+Fa
 ==========
 
 > Industry leading face manipulation platform.
